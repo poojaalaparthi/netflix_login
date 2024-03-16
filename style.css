@@ -1,0 +1,92 @@
+
+body{
+    background-image: url(./Netflix-Background.jpg);
+    background-repeat: no-repeat;
+}
+.mainblock{
+        background: rgba(14, 14, 14, 0.8);
+        width:470px;
+        height: 650px;
+        margin-top: -120px;
+        margin-left: 450px;
+}
+h2{
+    color: white;
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: xx-large;
+    font-weight: 400;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: rgb(255, 12, 12);
+    height:180px;
+    width:2500px;
+    font-size:xx-large;
+    font-weight: 900;
+}
+#fn{
+     height:50px;
+     width:400px;
+     margin-top:20px;
+     margin-left: 40px;
+     background: rgba(14, 14, 14, 0.8);
+     border:1px solid #ccc;
+     color:white;
+}
+#ps{
+    height:50px;
+    width:400px;
+    margin: 20px;
+    margin-left: 40px;
+    background: rgba(14, 14, 14, 0.8);
+    border:1px solid #ccc;
+    color:white;
+}
+#in{
+    background-color: red;
+    width:400px;
+    height:50px;
+    margin-left: 40px;
+    color: white;
+
+}
+.or{
+    margin-top: 15px;
+    text-align: center;
+    color: gray;
+}
+.under{
+    margin-top: 15px;
+    text-align: center;
+    color: gray;
+}
+#bt{
+    height:50px;
+    width:400px;
+    margin-left: 40px;
+    background: rgba(157, 153, 153, 0.3);
+    color: white;
+}
+.rm{
+    color:white;
+    margin:auto;
+    padding-left: 40px;
+}
+h5{
+    color: white;
+    padding-left: 80px;
+}
+.left{
+    color:white;
+    margin-left: 40px;
+}
+.blur:hover{
+    opacity: 0.4;
+}
+.under:hover{
+    opacity:0.7;
+    text-decoration: underline;
+    text-underline-position: below;
+    text-decoration-color: white;
+}
